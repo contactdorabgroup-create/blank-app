@@ -1,0 +1,8 @@
+streamlit==1.32.0
+moviepy==1.0.3
+Pillow==10.2.0
+numpy==1.26.4
+gTTS==2.5.0
+deep-translator==1.11.4
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
